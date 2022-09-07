@@ -1,0 +1,42 @@
+[
+  {
+    "name": "fire",
+    "src": "fire.svg"
+  },
+  {
+    "name": "wow",
+    "src": "wow.svg"
+  },
+  {
+    "name": "congrat",
+    "src": "congrat.svg"
+  },
+  {
+    "name": "foo",
+    "src": "foo.svg"
+  },
+  {
+    "name": "fun",
+    "src": "fun.svg"
+  },
+  {
+    "name": "lose",
+    "src": "lose.svg"
+  },
+  {
+    "name": "sad",
+    "src": "sad.svg"
+  },
+  {
+    "name": "smile",
+    "src": "smile.svg"
+  },
+  {
+    "name": "star",
+    "src": "star.svg"
+  },
+  {
+    "name": "like",
+    "src": "like.svg"
+  }
+]
